@@ -29,13 +29,13 @@ http://my-portfolio-website-pallavi.s3-website.eu-north-1.amazonaws.com/
 aws-static-portfolio-website/
 
 │
-
+|
 ├── index.html
-
+|
 ├── style.css
-
+|
 ├── script.js
-
+|
 └── README.md
 
 🌐 Deployment
